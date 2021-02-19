@@ -3,16 +3,16 @@ Hi! I'm IngrownMink4 and I'm a 20 years old boy who loves Free/Libre and Open So
 
 ```
 {
-  "firstName": "Sergio",
-  "lastName": "Varela",
-  "age": 20
-  "birthday": 21 of January
-  "social media": twitter: @ingrownmink4
-                  mastodon:@ingrownmink4
-                  lemmy.ml: @ingrownmink4
-                  instagram: @ingrownmink4
-                  snapchat: @ingrownmink4
-                  tiktok: @ingrownmink4
+  "firstName": "Sergio"
+  "lastName": "Varela"
+  "age": "20"
+  "birthday": "21 of January"
+  "social media": "twitter: @ingrownmink4"
+                  "mastodon:@ingrownmink4"
+                  "lemmy.ml: @ingrownmink4"
+                  "instagram: @ingrownmink4"
+                  "snapchat: @ingrownmink4"
+                  "tiktok: @ingrownmink4"
 }
 
 ``` 
