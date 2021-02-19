@@ -1,5 +1,5 @@
 # IngrownMink4
-Hi! I'm IngrownMink4 and I'm a 20 years old boy who loves Free/Libre and Open Source Software. You can chat with me through [Telegram](https://t.me/IngrownMink4) or you can [send me a e-mail](mailto:sergiovg01@outlook.com).
+Hi! I'm IngrownMink4 and I'm a 20 years old boy who loves Free/Libre and Open Source Software. You can chat with me through [Telegram](https://t.me/IngrownMink4) or you can [send me an e-mail](mailto:sergiovg01@outlook.com).
 
 ```
 {
@@ -49,4 +49,7 @@ Hi! I'm IngrownMink4 and I'm a 20 years old boy who loves Free/Libre and Open So
   * I used to be a good swimmer 🏊 too
 * I use Manjaro GNOME 3.38 and Windows 10 19042.804
 
-`First of all, please note that I am currently studying. Therefore, as I don't have so much free time, I'm not usually available on GitHub or any social network. So it may take me a while to answer messages or to contribute to a project. Thanks for your understanding and sorry for the inconvenience. As soon as I finish my pending studies, I will be able to dedicate more time to open source projects.`
+```
+First of all, please note that I am currently studying. Therefore, as I don't have so much free time, I'm not usually available on GitHub or any social network. So it may take me a while to answer messages or to contribute to a project. Thanks for your understanding and sorry for the inconvenience. As soon as I finish my pending studies, I will be able to dedicate more time to open source projects.
+
+```
