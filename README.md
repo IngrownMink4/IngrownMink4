@@ -1,7 +1,7 @@
 # IngrownMink4
 Hi! I'm IngrownMink4 and I'm a 20 years old boy who loves Free/Libre and Open Source Software. You can chat with me through [Telegram](https://t.me/IngrownMink4) or you can [send me an e-mail](mailto:sergiovg01@outlook.com).
 
-```
+```json
 {
   "firstName": "Sergio"
   "lastName": "Varela"
