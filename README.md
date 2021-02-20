@@ -24,13 +24,13 @@ Hi! I'm IngrownMink4 and I'm a 20 years old boy who loves Free/Libre and Open So
 * **My favourite software:**
   *  My favourite web-browser is **[Mozilla Firefox](https://mozilla.org/firefox/new)**
      + If I need more private web-browsing: **[Tor Browser](https://torproject.org/download)**
-     + If I need a chromium-based web-browser: **[Ungoogled-Chromium](https://ungoogled-software.github.io/)**
+     + If I need a Chromium-based web-browser: **[Ungoogled-Chromium](https://ungoogled-software.github.io/)**
   * My favourite operating system is **GNU/Linux 🐧**
   * My favourite programming language is **Rust 🦀** 
   * My favourite social network is **Twitter**
   * My favourite Markdown editor is **Apostrophe** 
   * My favourite videogame is **Kingdom Hearts**
-  * My favourite IDE is **VSCodium** (Free/Libre Open Source Software Binaries of VSCode)
+  * My favourite IDE is **VSCodium** 
   * My favourite Bittorrent client is **qBittorrent**
   * My favourite media player is **MPV**
 * **I love cats!** 🐱
