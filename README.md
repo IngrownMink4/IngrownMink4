@@ -28,7 +28,7 @@ Hi! I'm IngrownMink4 and I'm a 20 years old boy who loves Free/Libre and Open So
   * My favourite operating system is **GNU/Linux 🐧**
   * My favourite programming language is **Rust 🦀** 
   * My favourite social network is **Twitter**
-  * My favourite markdown editor is **Apostrophe** 
+  * My favourite Markdown editor is **Apostrophe** 
   * My favourite videogame is **Kingdom Hearts**
   * My favourite IDE is **VSCodium** (Free/Libre Open Source Software Binaries of VSCode)
   * My favourite Bittorrent client is **qBittorrent**
@@ -51,7 +51,7 @@ Hi! I'm IngrownMink4 and I'm a 20 years old boy who loves Free/Libre and Open So
   * I play basketball 🏀
   * I played football ⚽ in the past too
   * I used to be a good swimmer 🏊 too
-* **I use Manjaro GNOME 3.38 and Windows 10 19042.804**
+* **I use Manjaro GNOME v3.38 and Windows 10 v19042.804**
   * I recommend using [Win10Privacy](https://www.w10privacy.de/english-home/) if you are using Windows 10
 * **I love reading!**
   * Especially books related to philosophy and politics. I also like to read scientific/technical articles 
