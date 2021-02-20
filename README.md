@@ -34,7 +34,7 @@ Hi! I'm IngrownMink4 and I'm a 20 years old boy who loves Free/Libre and Open So
   * My favourite Bittorrent client is **qBittorrent**
   * My favourite media player is **MPV**
 * **I love cats!** 🐱
-  * I love cats because they're cute  o(〃＾▽＾〃)o
+  * I love cats because they're cute <3
 * **I'm very absent-minded in general 😅**
   * Sometimes I forget to do my homework and other important things (yes, i'm a mess...)
 * **My favorite foods:**
@@ -46,8 +46,7 @@ Hi! I'm IngrownMink4 and I'm a 20 years old boy who loves Free/Libre and Open So
 * **My favourite drinks**
   * I love guayaba and mango juice 
   * I like black beer
-  * I like milk and milkshakes
-  * I hate the coca-cola and the lemonade   
+  * I like milk and milkshakes  
 * **I like to play sports:**
   * I play basketball 🏀
   * I played football ⚽ in the past too
