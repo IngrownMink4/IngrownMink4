@@ -1,12 +1,12 @@
 # IngrownMink4
 Hi! I'm IngrownMink4 and I'm a 20 years old boy who loves Free/Libre and Open Source Software. You can chat with me through [Telegram](https://t.me/IngrownMink4) or you can [send me an e-mail](mailto:sergiovg01@outlook.com).
 
-```html
+```
 {
   "firstName": "Sergio"
   "lastName": "Varela"
   "age": "20"
-  "birthday": "21 of January"
+  "birthday": "21 of january"
   "social media": "twitter: @ingrownmink4"
                   "mastodon:@ingrownmink4"
                   "lemmy.ml: @ingrownmink4"
@@ -42,14 +42,20 @@ Hi! I'm IngrownMink4 and I'm a 20 years old boy who loves Free/Libre and Open So
   * Döner kebabs 🥙
   * Spagghetti 🍝
   * Chinese/Vietnamese Spring Rolls 🥢
-  * and many more... 
+  * and many more...
+* **My favourite drinks**
+  * I love guayaba and mango juice 
+  * I like black beer
+  * I like milk and milkshakes
+  * I hate the coca-cola and the lemonade   
 * **I like to play sports:**
   * I play basketball 🏀
   * I played football ⚽ in the past too
   * I used to be a good swimmer 🏊 too
-* I use Manjaro GNOME 3.38 and Windows 10 19042.804
+* **I use Manjaro GNOME 3.38 and Windows 10 19042.804**
+  * I recommend using [Win10Privacy](https://www.w10privacy.de/english-home/) if you are using Windows 10
+* **I love reading!**
+  * Especially books related to philosophy and politics. I also like to read scientific/technical articles 
 
-```
-First of all, please note that I am currently studying. Therefore, as I don't have so much free time, I'm not usually available on GitHub or any social network. So it may take me a while to answer messages or to contribute to a project. Thanks for your understanding and sorry for the inconvenience. As soon as I finish my pending studies, I will be able to dedicate more time to open source projects.
+>*First of all, please note that I am currently studying. Therefore, as I don't have so much free time, I'm not usually available on GitHub or any social network. So it may take me a while to answer messages or to contribute to a project. Thanks for your understanding and sorry for the inconvenience. As soon as I finish my pending studies, I will be able to dedicate more time to open source projects.*
 
-```
