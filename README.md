@@ -7,20 +7,20 @@ Hi! I'm IngrownMink4 and I'm a 20 years old boy who loves Free/Libre and Open So
    lastName: Varela
    age: 20
    birthday: 21 of january
-   social media:  twitter: @ingrownmink4
-                  mastodon:@ingrownmink4
-                  lemmy: @ingrownmink4
-                  instagram: @ingrownmink4
-                  snapchat: @ingrownmink4
-                  tiktok: @ingrownmink4
+   socialmedia:  twitter: @ingrownmink4
+                 mastodon:@ingrownmink4
+                 lemmy: @ingrownmink4
+                 instagram: @ingrownmink4
+                 snapchat: @ingrownmink4
+                 tiktok: @ingrownmink4
 }
 
 ``` 
 
 ### Things to know about me:
 * **I'm a rookie translator 😁**
-  * I contribute to the Spanish and Basque localization on [Lemmy](https://github.com/LemmyNet/lemmy)
-  * I contribute to the Spanish and Basque localization on [Mozilla](https://github.com/mozilla)
+  * I contribute to the Spanish and Basque localization on **[Lemmy](https://github.com/LemmyNet/lemmy)**
+  * I contribute to the Spanish and Basque localization on **[Mozilla](https://github.com/mozilla)**
 * **My favourite software:**
   *  My favourite web-browser is **[Mozilla Firefox](https://mozilla.org/firefox/new)**
      + If I need more private web-browsing: **[Tor Browser](https://torproject.org/download)**
@@ -34,7 +34,7 @@ Hi! I'm IngrownMink4 and I'm a 20 years old boy who loves Free/Libre and Open So
   * My favourite Bittorrent client is **qBittorrent**
   * My favourite media player is **MPV**
 * **I love cats!** 🐱
-  * I love them because they are cute and clever!
+  * I love cats because they're cute  o(〃＾▽＾〃)o
 * **I'm very absent-minded in general 😅**
   * Sometimes I forget to do my homework and other important things (yes, i'm a mess...)
 * **My favorite foods:**
