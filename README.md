@@ -3,22 +3,6 @@ Hi! I'm IngrownMink4 and I'm a 20 years old boy who loves Free/Libre and Open So
 
 *First of all, please note that I am currently studying. Therefore, as I don't have so much free time, I'm not usually available on GitHub or any social network. So it may take me a while to answer messages or to contribute to a project. Thanks for your understanding and sorry for the inconvenience. As soon as I finish my pending studies, I will be able to dedicate more time to open source projects.*
 
-```
-{
-   firstName: Sergio
-   lastName: Varela
-   age: 20
-   birthday: 21 of january
-   socialmedia:  twitter: @ingrownmink4
-                 mastodon:@ingrownmink4
-                 lemmy: @ingrownmink4
-                 instagram: @ingrownmink4
-                 snapchat: @ingrownmink4
-                 tiktok: @ingrownmink4
-}
-
-``` 
-
 ### Things to know about me:
 * **I'm a rookie translator 😁**
   * I contribute to the Spanish and Basque localization on **[Lemmy](https://github.com/LemmyNet/lemmy)**
