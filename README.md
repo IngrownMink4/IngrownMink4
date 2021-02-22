@@ -30,9 +30,9 @@ Hi! I'm IngrownMink4 and I'm a 20 years old boy who loves Free/Libre and Open So
   * Chinese/Vietnamese Spring Rolls 🥢
   * and many more...
 * **My favourite drinks**
-  * I love guayaba and mango juice 
-  * I like black beer
-  * I like milk and milkshakes  
+  * I love guayaba and mango juice 🥭
+  * I like black beer 🍻
+  * I like milk and milkshakes 🥛 
 * **I like to play sports:**
   * I play basketball 🏀
   * I played football ⚽ in the past too
