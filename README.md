@@ -3,13 +3,6 @@ Hi! I'm IngrownMink4 and I'm a 20 years old boy who loves Free/Libre and Open So
 
 *First of all, please note that I am currently studying. Therefore, as I don't have so much free time, I'm not usually available on GitHub or any social network. So it may take me a while to answer messages or to contribute to a project. Thanks for your understanding and sorry for the inconvenience. As soon as I finish my pending studies, I will be able to dedicate more time to open source projects.*
 
- **My Steam Profile** *(from [SteamDB](https://steamdb.info/calculator/76561198214258245/?cc=eu))*
-
-* **Worth:** 1003€ (170€ with sales)
-* **Games owned:** 146
-* **Games played:** 44 *(30%)*
-* **Hours on record:** 349.4h 
-
 ### Things to know about me:
 * **I'm a rookie translator 😁**
   * I contribute to the Spanish and Basque localization on **[Lemmy](https://github.com/LemmyNet/lemmy)**
