@@ -21,6 +21,7 @@ Hi! I'm IngrownMink4 and I'm a 20 years old boy who loves Free/Libre and Open So
   * My favourite IDE is **VSCodium** 
   * My favourite Bittorrent client is **qBittorrent**
   * My favourite media player is **MPV**
+  * My favourite shared hosting is **Codeberg**
 * **I love cats!** 🐱
   * I love cats because they're cute <3
 * **I'm very absent-minded in general 😅**
