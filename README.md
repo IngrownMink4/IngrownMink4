@@ -6,9 +6,15 @@ Hi! I'm IngrownMink4 and [I'm a 20 years old boy](https://pronoun.is/he) who lov
 
 
 ### Things to know about me:
-* **I'm a rookie translator 😁**
+* **I'm a software translator 😁**
   * I contribute to the Spanish and Basque localization on **[Lemmy](https://github.com/LemmyNet/lemmy)**
   * I contribute to the Spanish and Basque localization on **[Mozilla](https://github.com/mozilla)**
+  * I contribute to the Spanish and Basque localization on **[LocalCDN](https://codeberg.org/nobody/LocalCDN)**
+  * I contribute to the Spanish and Basque localization on **[NewPipe](https://github.com/TeamNewPipe/NewPipe/)**
+  * I contribute to the Spanish and Basque localization on **[Tasks.org](https://github.com/tasks/tasks)**
+  * I contribute to the Spanish and Basque localization on **[RedReader](https://github.com/QuantumBadger/RedReader)**
+  * I contribute to the Basque localization on **[Godot](https://godotengine.org/)**
+  * **[And so on...](https://hosted.weblate.org/user/IngrownMink4/)**
 * **My favourite software:**
   *  My favourite web-browser is **[Mozilla Firefox](https://mozilla.org/firefox/new)**
      + If I need more private web-browsing: **[Tor Browser](https://torproject.org/download)**
@@ -18,7 +24,7 @@ Hi! I'm IngrownMink4 and [I'm a 20 years old boy](https://pronoun.is/he) who lov
   * My favourite social network is **Twitter**
   * My favourite Markdown editor is **Apostrophe** 
   * My favourite videogame is **Kingdom Hearts**
-  * My favourite IDE is **VSCodium** 
+  * My favourite IDE is **GNOME Builder** 
   * My favourite Bittorrent client is **qBittorrent**
   * My favourite media player is **MPV**
   * My favourite shared hosting is **Codeberg**
