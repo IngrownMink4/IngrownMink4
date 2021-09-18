@@ -13,6 +13,7 @@ Hi! I'm IngrownMink4 and [I'm a 20 years old boy](https://pronoun.is/he) who lov
   * I contribute to the Spanish and Basque localization on **[NewPipe](https://github.com/TeamNewPipe/NewPipe/)**
   * I contribute to the Spanish and Basque localization on **[Tasks.org](https://github.com/tasks/tasks)**
   * I contribute to the Spanish and Basque localization on **[RedReader](https://github.com/QuantumBadger/RedReader)**
+  * I contribute to the Basque localization on **[Telegrand](https://github.com/melix99/telegrand)**
   * I contribute to the Basque localization on **[Godot](https://godotengine.org/)**
   * **[And so on...](https://hosted.weblate.org/user/IngrownMink4/)**
 * **My favourite software:**
