@@ -18,7 +18,7 @@ Hi! I'm IngrownMink4 and [I'm a 20 years old boy](https://pronoun.is/he) who lov
   * **[And so on...](https://hosted.weblate.org/user/IngrownMink4/)**
 * **My favourite software:**
   *  My favourite web-browser is **[Mozilla Firefox](https://mozilla.org/firefox/new)**
-     + If I need more private web-browsing: **[Tor Browser](https://torproject.org/download)**
+     + If I need more private web-browsing: **[Tor Browser](https://torproject.org/)**
      + If I need a Chromium-based web-browser: **[Ungoogled-Chromium](https://ungoogled-software.github.io/)**
   * My favourite operating system is **GNU/Linux 🐧**
   * My favourite programming language is **Rust 🦀** 
@@ -47,7 +47,7 @@ Hi! I'm IngrownMink4 and [I'm a 20 years old boy](https://pronoun.is/he) who lov
   * I play basketball 🏀
   * I played football ⚽ in the past too
   * I used to be a good swimmer 🏊 too
-* **I use Manjaro GNOME v40.2 and Windows 10 v19043.1165**
+* **I use Manjaro GNOME v40.4 and Windows 10 v19043.1266**
   * I recommend using **[Win10Privacy](https://www.w10privacy.de/english-home/)** if you are using Windows 10
 * **I love reading!**
   * Especially books related to philosophy and politics. I also like to read scientific/technical articles 
