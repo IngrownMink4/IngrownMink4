@@ -47,7 +47,7 @@ Hi! I'm IngrownMink4 and [I'm a 20 years old boy](https://pronoun.is/he) who lov
   * I play basketball 🏀
   * I played football ⚽ in the past too
   * I used to be a good swimmer 🏊 too
-* **I use Manjaro GNOME v40.4 and Windows 10 v19043.1266**
+* **I use Manjaro GNOME v41 and Windows 10 v19043.1266**
   * I recommend using **[Win10Privacy](https://www.w10privacy.de/english-home/)** if you are using Windows 10
 * **I love reading!**
   * Especially books related to philosophy and politics. I also like to read scientific/technical articles 
