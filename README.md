@@ -27,7 +27,7 @@ Hi! I'm IngrownMink4 and [I'm a 20 years old boy](https://pronoun.is/he) who lov
   * My favourite videogame is **Kingdom Hearts**
   * My favourite IDE is **GNOME Builder** 
   * My favourite Bittorrent client is **qBittorrent**
-  * My favourite media player is **MPV**
+  * My favourite media player is **Clapper**
   * My favourite shared hosting is **Codeberg**
 * **I love cats!** 🐱
   * I love cats because they're cute <3
