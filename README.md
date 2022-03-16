@@ -26,7 +26,7 @@ Hi! I'm IngrownMink4 and [I'm a 21 years old boy](https://pronoun.is/he) who lov
   * My favourite Markdown editor is **Apostrophe** 
   * My favourite videogame is **Kingdom Hearts**
   * My favourite IDE is **GNOME Builder** 
-  * My favourite Bittorrent client is **qBittorrent**
+  * My favourite Bittorrent client is **Fragments**
   * My favourite media player is **Clapper**
   * My favourite shared hosting is **Codeberg**
 * **I love cats!** 🐱
@@ -41,14 +41,14 @@ Hi! I'm IngrownMink4 and [I'm a 21 years old boy](https://pronoun.is/he) who lov
   * and many more...
 * **My favourite drinks**
   * I love guayaba and mango juice 🥭
-  * I like black beer 🍻
+  * I like beer 🍻
   * I like milk and milkshakes 🥛 
 * **I like to play sports:**
   * I play basketball 🏀
   * I played football ⚽ in the past too
   * I used to be a good swimmer 🏊 too
-* **I use Manjaro GNOME v41 and Windows 10 v19043.1415**
-  * I recommend using **[Win10Privacy](https://www.w10privacy.de/english-home/)** if you are using Windows 10
+* **I use Manjaro GNOME v41.3 on all my devices**
+  * I recommend using **[Privacy.sexy](https://privacy.sexy/)** if you are using Windows 10 or Windows 11
 * **I love reading!**
   * Especially books related to philosophy and politics. I also like to read scientific/technical articles 
 
