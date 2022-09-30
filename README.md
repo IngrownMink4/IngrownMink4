@@ -16,19 +16,19 @@ Hi! I'm IngrownMink4 and [I'm a 21 years old boy](https://pronoun.is/he) who lov
   * I contribute to the Basque localization on **[Telegrand](https://github.com/melix99/telegrand)**
   * I contribute to the Basque localization on **[Godot](https://godotengine.org/)**
   * **[And so on...](https://hosted.weblate.org/user/IngrownMink4/)**
-* **My favourite software:**
-  *  My favourite web-browser is **[Mozilla Firefox](https://mozilla.org/firefox/new)**
+* **My favorite software:**
+  *  My favorite web-browser is **[Mozilla Firefox](https://mozilla.org/firefox/new)**
      + If I need more private web-browsing: **[Tor Browser](https://torproject.org/)**
      + If I need a Chromium-based web-browser: **[Ungoogled-Chromium](https://ungoogled-software.github.io/)**
-  * My favourite operating system is **GNU/Linux 🐧**
-  * My favourite programming language is **Rust 🦀** 
-  * My favourite social network is **Twitter**
-  * My favourite Markdown editor is **Apostrophe** 
-  * My favourite videogame is **Kingdom Hearts**
-  * My favourite IDE is **GNOME Builder** 
-  * My favourite Bittorrent client is **Fragments**
-  * My favourite media player is **Clapper**
-  * My favourite shared hosting is **Codeberg**
+  * My favorite operating system is **GNU/Linux 🐧**
+  * My favorite programming language is **Rust 🦀** 
+  * My favorite social medias are **Twitter and Lemmy**
+  * My favorite Markdown editor is **Apostrophe** 
+  * My favorite videogame is **Kingdom Hearts**
+  * My favorite IDE is **GNOME Builder** 
+  * My favorite Bittorrent client is **Fragments**
+  * My favorite media players are **Clapper and Celulloid**
+  * My favorite shared hosting is **Codeberg**
 * **I love cats!** 🐱
   * I love cats because they're cute <3
 * **I'm very absent-minded in general 😅**
@@ -38,8 +38,8 @@ Hi! I'm IngrownMink4 and [I'm a 21 years old boy](https://pronoun.is/he) who lov
   * Döner kebabs 🥙
   * Spagghetti 🍝
   * Chinese/Vietnamese Spring Rolls 🥢
-  * and many more...
-* **My favourite drinks**
+  * and many more…
+* **My favorite drinks**
   * I love guayaba and mango juice 🥭
   * I like beer 🍻
   * I like milk and milkshakes 🥛 
