@@ -19,7 +19,7 @@ Hi! I'm IngrownMink4 and [I'm a 21 years old boy](https://pronoun.is/he) who lov
 * **My favorite software:**
   *  My favorite web-browser is **[Mozilla Firefox](https://mozilla.org/firefox/new)**
      + If I need more private web-browsing: **[Tor Browser](https://torproject.org/)**
-     + If I need a Chromium-based web-browser: **[Hardened Brave](https://brave.com/)**
+     + If I need a Chromium-based web-browser: **[Hardened Brave Browser](https://brave.com/)**
   * My favorite operating system is **GNU/Linux 🐧**
   * My favorite programming language is **Rust 🦀** 
   * My favorite social medias are **Twitter and Lemmy**
