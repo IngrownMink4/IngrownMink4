@@ -22,7 +22,7 @@ Hi! I'm Sergio and [I'm a 21 years old boy](https://pronoun.is/he) who loves Fre
      + If I need a Chromium-based web-browser: **[Hardened Brave Browser](https://brave.com/)**
   * My favorite operating system is **GNU/Linux 🐧**
   * My favorite programming language is **Rust 🦀** 
-  * My favorite social medias are **Twitter and Lemmy**
+  * My favorite social media is **Lemmy**
   * My favorite Markdown editor is **Apostrophe** 
   * My favorite videogame is **Kingdom Hearts**
   * My favorite IDE is **GNOME Builder** 
@@ -47,7 +47,7 @@ Hi! I'm Sergio and [I'm a 21 years old boy](https://pronoun.is/he) who loves Fre
   * I play basketball 🏀
   * I played football ⚽ in the past too
   * I used to be a good swimmer 🏊 too
-* **I use Manjaro GNOME v42.4 on all my devices**
+* **I use Manjaro GNOME v43.0 on all my devices**
   * I recommend using **[Privacy.sexy](https://privacy.sexy/)** if you are using Windows 10 or Windows 11
 * **I love reading!**
   * Especially books related to philosophy and politics. I also like to read scientific/technical articles 
