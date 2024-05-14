@@ -27,7 +27,7 @@ Hi! I'm Sergio and [I'm a 23 years old boy](https://en.pronouns.page/@IngrownMin
   * My favorite videogame is **Kingdom Hearts**
   * My favorite IDE is **GNOME Builder** 
   * My favorite Bittorrent client is **Fragments**
-  * My favorite media players are **Clapper and Celulloid**
+  * My favorite media players is **Clapper**
   * My favorite shared hosting is **Codeberg**
 * **I love cats!** 🐱
   * I love cats because they're cute <3
