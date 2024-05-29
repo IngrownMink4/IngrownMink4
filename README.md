@@ -47,7 +47,7 @@ Hi! I'm Sergio and [I'm a 23 years old boy](https://en.pronouns.page/@IngrownMin
   * I play basketball 🏀
   * I played football ⚽ in the past too
   * I used to be a good swimmer 🏊 too
-* **I use Manjaro GNOME v45.4 on all my devices**
+* **I use Manjaro GNOME v46 on all my devices**
   * I recommend using **[Privacy.sexy](https://privacy.sexy/)** if you are using Windows 10 or Windows 11
 * **I love reading!**
   * Especially books related to philosophy and politics. I also like to read scientific/technical articles 
