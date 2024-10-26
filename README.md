@@ -24,7 +24,7 @@ Hi! I'm Sergio and [I'm a 23 years old boy](https://en.pronouns.page/@IngrownMin
   * My favorite programming language is **Rust 🦀** 
   * My favorite social media is **Lemmy**
   * My favorite Markdown editor is **Apostrophe** 
-  * My favorite videogame is **Kingdom Hearts**
+  * My favorite videogame is **Kingdom Hearts 2**
   * My favorite IDE is **GNOME Builder** 
   * My favorite Bittorrent client is **Fragments**
   * My favorite media players is **Clapper**
