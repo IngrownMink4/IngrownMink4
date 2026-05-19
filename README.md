@@ -1,5 +1,5 @@
 # IngrownMink4
-Hi! I'm Sergio and [I'm a 24 years old boy](https://en.pronouns.page/@IngrownMink4) who loves Free/Libre and Open Source Software. You can chat with me through **[Telegram](https://t.me/IngrownMink4)** or you can **[send me an e-mail](mailto:sergiovg01@outlook.com)**.
+Hi! I'm Sergio and [I'm a 25 years old boy](https://en.pronouns.page/@IngrownMink4) who loves Free/Libre and Open Source Software. You can chat with me through **[Telegram](https://t.me/IngrownMink4)** or you can **[send me an e-mail](mailto:sergiovg01@outlook.com)**.
 
 
 *First of all, please note that I am currently **working full time in an establishment**. Therefore, as I don't have so much free time, I'm not usually available on GitHub or any social network. So it may take me a while to answer messages or to contribute to a project. Thanks for your understanding and sorry for the inconvenience. At the moment, I only plan to contribute to those projects in which I am already involved. I won't be involved in any more for a long time. As soon as I finish my pending studies, I will be able to dedicate more time to open source projects.*
@@ -47,7 +47,7 @@ Hi! I'm Sergio and [I'm a 24 years old boy](https://en.pronouns.page/@IngrownMin
   * I play basketball 🏀
   * I played football ⚽ in the past too
   * I used to be a good swimmer 🏊 too
-* **I use Manjaro GNOME v47 on all my devices**
+* **I use Manjaro GNOME v50 on all my devices**
   * I recommend using **[Privacy.sexy](https://privacy.sexy/)** if you are using Windows 10 or Windows 11
 * **I love reading!**
   * Especially books related to philosophy and politics. I also like to read scientific/technical articles 
